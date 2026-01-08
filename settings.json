@@ -1,0 +1,33 @@
+{
+  "live48": {
+    "urls": [
+      "https://live.48.cn/Index/main/club/1",
+      "https://live.48.cn/Index/main/club/3",
+      "https://live.48.cn/Index/main/club/2",
+      "https://live.48.cn/Index/main/club/5",
+      "https://live.48.cn/Index/main/club/6"
+    ],
+    "exclude_show_name_keywords": [
+      "生日会",
+      "冷餐"
+    ]
+  },
+  "target": {
+    "name": "黄楚茵"
+  },
+  "feishu": {
+    "app_id": "",
+    "app_secret": "",
+    "bitable_app_token": "",
+    "bitable_table_id": ""
+  },
+  "fields": {
+    "count": "场次计数",
+    "date": "日期",
+    "content": "行程内容",
+    "remark": "备注"
+  },
+  "runtime": {
+    "interval_hours": 6
+  }
+}

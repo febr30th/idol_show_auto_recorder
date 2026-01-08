@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+
+# Logs
+tray.log
+*.log
+
+# Local private settings
+settings.local.json
+
+# Legacy config (historical, deprecated)
+config.py
