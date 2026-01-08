@@ -5,11 +5,8 @@
 ## 配置
 
 仓库提供 `settings.json`（无敏感信息）。你需要在同目录新建 `settings.local.json` 覆盖私有配置：
-
 - `target.name`：目标成员名
 - `feishu.*`：飞书开放平台与多维表信息
-
-可以参考 `settings.local.json` 示例（注意不要提交该文件）。
 
 ## 运行
 
